@@ -1,0 +1,11 @@
+*csproj
+*unityproj
+*sln
+*userprefs
+*apk
+*/Library/*
+*/Temp/*
+*.meta
+.vs/
+ShaderCache/
+metadata/
